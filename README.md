@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Conor Mongan — Member of Technical Staff working across service engineering, CI/CD, observability and developer tooling" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light-v3.svg">
+  <img alt="Conor Mongan — Member of Technical Staff working across service engineering, CI/CD, observability and developer tooling" src="assets/header-light-v3.svg" width="100%">
 </picture>
 
 I investigate difficult systems problems, explain them clearly, and build tools that make the next incident easier to solve.
@@ -12,21 +12,17 @@ I investigate difficult systems problems, explain them clearly, and build tools 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/c-mongan/copilot-cli-agentops-azure">
-        <img src="https://raw.githubusercontent.com/c-mongan/copilot-cli-agentops-azure/main/docs/images/agentops-for-azure-banner.png" alt="Copilot CLI AgentOps for Azure" width="100%">
+        <img src="assets/cover-agentops.png" alt="Copilot CLI AgentOps for Azure — OpenTelemetry and Azure Monitor with privacy-safe defaults" width="100%">
       </a>
-      <br><br>
-      <strong><a href="https://github.com/c-mongan/copilot-cli-agentops-azure">Copilot CLI AgentOps for Azure</a></strong>
       <br>
-      Privacy-first observability for Copilot CLI, SDK and MCP workloads using OpenTelemetry and Azure Monitor.
+      <sub><a href="https://github.com/c-mongan/copilot-cli-agentops-azure">Repository</a> · <a href="https://github.com/c-mongan/copilot-cli-agentops-azure/blob/main/docs/simplified-azure-design.md">Architecture</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://sligo-digital-twin.vercel.app/">
-        <img src="https://raw.githubusercontent.com/c-mongan/sligo-geology-viewer/main/docs/assets/overview.png" alt="Sligo Basin 3D geology viewer" width="100%">
+        <img src="assets/cover-sligo.png" alt="Sligo Basin 3D Geology Viewer — public Irish geoscience, provenance and drilling-risk workflows" width="100%">
       </a>
-      <br><br>
-      <strong><a href="https://github.com/c-mongan/sligo-geology-viewer">Sligo Basin 3D Geology Viewer</a></strong>
       <br>
-      An interactive Three.js viewer built from public Irish geoscience data, with provenance and drilling-risk workflows.
+      <sub><a href="https://github.com/c-mongan/sligo-geology-viewer">Repository</a> · <a href="https://sligo-digital-twin.vercel.app/">Live demo</a></sub>
     </td>
   </tr>
 </table>

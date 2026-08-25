@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+<title id="title">Conor Mongan, Member of Technical Staff</title>
+<desc id="desc">An editorial service-engineering signal trace moving from observation to diagnosis and improvement.</desc>
+<style>
+  .moving-signal{display:block}
+  @media(prefers-reduced-motion:reduce){.moving-signal{display:none}}
+</style>
+<rect x="1" y="1" width="1198" height="248" rx="5" fill="#111311" stroke="#373A34" stroke-width="2"/>
+<path d="M1 7H1199" stroke="#E88B5B" stroke-width="6"/>
+<path d="M625 30V220" stroke="#373A34"/>
+<g transform="translate(52 0)">
+  <text x="0" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2.2" fill="#E88B5B">CONOR MONGAN / DUBLIN</text>
+  <text x="0" y="112" font-family="Georgia,'Times New Roman',serif" font-size="43" font-weight="700" fill="#F0E9DD">Member of Technical Staff</text>
+  <text x="0" y="151" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17" fill="#9B9C92">Service engineering, CI/CD, observability and developer tooling</text>
+  <path d="M0 188H508" stroke="#373A34"/>
+  <text x="0" y="215" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="1.1" fill="#9B9C92">PUBLIC WORK / SYSTEMS / TOOLS</text>
+</g>
+<g transform="translate(670 0)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <text x="0" y="54" font-size="11" font-weight="700" letter-spacing="1.8" fill="#9B9C92">SERVICE ENGINEERING / SIGNAL PATH</text>
+  <path d="M0 126H88L104 126L116 102L130 151L146 116L162 134L184 126H304L320 126L334 110L348 139L362 119L376 130L398 126H472" fill="none" stroke="#9B9C92" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M0 88V166M184 88V166M398 88V166" stroke="#373A34"/>
+  <circle cx="0" cy="126" r="5" fill="#111311" stroke="#E88B5B" stroke-width="2"/>
+  <circle cx="184" cy="126" r="5" fill="#111311" stroke="#E88B5B" stroke-width="2"/>
+  <circle cx="398" cy="126" r="5" fill="#111311" stroke="#E88B5B" stroke-width="2"/>
+  <circle class="moving-signal" r="5" fill="#E88B5B">
+    <animateMotion dur="6.4s" repeatCount="indefinite" path="M0 126H88L104 126L116 102L130 151L146 116L162 134L184 126H304L320 126L334 110L348 139L362 119L376 130L398 126H472"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.06;.94;1" dur="6.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="0" y="188" font-size="11" font-weight="700" letter-spacing="1.2" fill="#F0E9DD">01 OBSERVE</text>
+  <text x="184" y="188" font-size="11" font-weight="700" letter-spacing="1.2" fill="#F0E9DD">02 DIAGNOSE</text>
+  <text x="398" y="188" font-size="11" font-weight="700" letter-spacing="1.2" fill="#F0E9DD">03 IMPROVE</text>
+  <text x="0" y="216" font-size="10" letter-spacing=".8" fill="#9B9C92">LOGS / TRACES / EVIDENCE</text>
+</g>
+</svg>

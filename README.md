@@ -25,6 +25,17 @@ I investigate difficult systems problems, explain them clearly, and build tools 
       <sub><a href="https://github.com/c-mongan/sligo-geology-viewer">Repository</a> · <a href="https://sligo-digital-twin.vercel.app/">Live demo</a></sub>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/c-mongan/livekit-voice-studio">Voicebox Studio</a></h3>
+      <p>Talk with GitHub Copilot or OpenAI Codex using local speech recognition and a voice you choose. An open-source developer preview for Apple Silicon.</p>
+      <a href="https://github.com/c-mongan/livekit-voice-studio">
+        <img src="https://raw.githubusercontent.com/c-mongan/livekit-voice-studio/main/docs/studio.png" alt="Voicebox Studio — local speech with Copilot or Codex reasoning" width="600">
+      </a>
+      <br>
+      <sub><a href="https://github.com/c-mongan/livekit-voice-studio">Repository &amp; quickstart</a> · <a href="https://github.com/c-mongan/livekit-voice-studio/blob/main/docs/preview-release.md">Tested scope &amp; limitations</a></sub>
+    </td>
+  </tr>
 </table>
 
 **Also:** [Agent Systems Field Guide](https://github.com/c-mongan/agent-systems-field-guide) · [Support Triage Template](https://github.com/c-mongan/support-triage-agent-template)

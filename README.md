@@ -6,6 +6,10 @@
 
 I investigate difficult systems problems, explain them clearly, and build tools that make the next incident easier to solve.
 
+**Member of Technical Staff at [Microsoft](https://www.microsoft.com/)** · previously **Technical Support Engineer II at [Datadog](https://www.datadoghq.com/)**
+
+Service engineering · Developer tooling · Observability · CI/CD · APIs
+
 ### Selected work
 
 <table>
@@ -38,6 +42,8 @@ I investigate difficult systems problems, explain them clearly, and build tools 
   </tr>
 </table>
 
-**Also:** [Agent Systems Field Guide](https://github.com/c-mongan/agent-systems-field-guide) · [Support Triage Template](https://github.com/c-mongan/support-triage-agent-template)
+**More:** [Agent Systems Field Guide](https://github.com/c-mongan/agent-systems-field-guide) · [Resumake CV Generator](https://github.com/c-mongan/resumake-latex-cv) · [Safe Storage Optimizer](https://github.com/c-mongan/safe-storage-optimizer)
 
 [LinkedIn](https://www.linkedin.com/in/conor-mongan)
+
+<sub>The projects shown here are personal work, not official Microsoft or Datadog products, and are not endorsed by either company.</sub>

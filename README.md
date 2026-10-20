@@ -17,7 +17,7 @@ Find the failed or slow tool call in a Copilot CLI run. Inspect a local trace wa
 <a href="assets/diagrams/agentops-light.png">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/diagrams/agentops-dark.png">
-    <img src="assets/diagrams/agentops-light.png" alt="AgentOps: Copilot CLI sends telemetry to a local strict collector and run ledger. Investigate locally, or optionally export to Azure Monitor for KQL, Workbook and Grafana analysis." width="100%">
+    <img src="assets/diagrams/agentops-light.png" alt="AgentOps illustrated run inspector: a trace waterfall identifies a slow step and a denied call, with a local capture path, metadata privacy filter and optional Azure export." width="100%">
   </picture>
 </a>
 
@@ -32,7 +32,7 @@ Ask an AI assistant about Irish public data and get a response with source citat
 <a href="assets/diagrams/ireland-mcp-light.png">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/diagrams/ireland-mcp-dark.png">
-    <img src="assets/diagrams/ireland-mcp-light.png" alt="Ireland MCP: an assistant sends a validated request through source adapters to Irish public APIs. Results return with a source URL, licence and retrieval time for a cited answer." width="100%">
+    <img src="assets/diagrams/ireland-mcp-light.png" alt="Ireland MCP: a Republic of Ireland map shows public-data subjects beside a connection workflow and a dated CSO rent receipt with source, licence and retrieval details." width="100%">
   </picture>
 </a>
 
@@ -47,7 +47,7 @@ Turn a support case into an evidence-graded investigation. Check documentation, 
 <a href="assets/diagrams/support-triage-light.png">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/diagrams/support-triage-dark.png">
-    <img src="assets/diagrams/support-triage-light.png" alt="Support Triage: case intake leads to parallel evidence checks, confidence assessment and a local triage report. A person verifies the findings before replying or escalating." width="100%">
+    <img src="assets/diagrams/support-triage-light.png" alt="Support Triage: a synthetic webhook case becomes an evidence dossier with five research tracks, graded findings, local report and draft reply, then human review." width="100%">
   </picture>
 </a>
 

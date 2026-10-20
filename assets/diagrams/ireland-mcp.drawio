@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net">
+  <diagram name="02 / Ireland MCP" id="ireland-mcp">
+    <mxGraphModel dx="720" dy="620" grid="1" gridSize="10" page="1" pageWidth="720" pageHeight="620" background="#ffffff">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="rounded=0;fillColor=#f5f7fb;strokeColor=none;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="0" y="0" width="720" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="fillColor=#087e68;strokeColor=none;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="0" y="0" width="720" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="02 / Ireland MCP" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#18243b;fontStyle=1;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="660" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Irish public data, with a source behind every answer." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=17;fontColor=#53647d;fontStyle=0;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="78" width="660" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="REQUEST" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=14;fontColor=#087e68;fontStyle=1;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="126" width="600" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="&lt;b&gt;AI assistant&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:16px&quot; color=&quot;#53647d&quot;&gt;MCP client&lt;/font&gt;" style="rounded=1;arcSize=14;fillColor=#ffffff;strokeColor=#cdd7e5;strokeWidth=1.5;fontColor=#18243b;fontSize=22;whiteSpace=wrap;spacing=12;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="166" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="&lt;b&gt;MCP server&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:16px&quot; color=&quot;#53647d&quot;&gt;Validate the request&lt;/font&gt;" style="rounded=1;arcSize=14;fillColor=#ffffff;strokeColor=#cdd7e5;strokeWidth=1.5;fontColor=#18243b;fontSize=22;whiteSpace=wrap;spacing=12;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="265" y="166" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="&lt;b&gt;Adapters&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:16px&quot; color=&quot;#53647d&quot;&gt;Read-only API calls&lt;/font&gt;" style="rounded=1;arcSize=14;fillColor=#ffffff;strokeColor=#cdd7e5;strokeWidth=1.5;fontColor=#18243b;fontSize=22;whiteSpace=wrap;spacing=12;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="500" y="166" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#087e68;fontColor=#53647d;fontSize=15;labelBackgroundColor=#f5f7fb;dashed=0;" edge="1" parent="1" source="7" target="8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#087e68;fontColor=#53647d;fontSize=15;labelBackgroundColor=#f5f7fb;dashed=0;" edge="1" parent="1" source="8" target="9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="&lt;b&gt;Public sources&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:16px&quot; color=&quot;#53647d&quot;&gt;CSO · Met Éireann&lt;br&gt;Oireachtas · PPR&lt;/font&gt;" style="rounded=1;arcSize=14;fillColor=#ffffff;strokeColor=#cdd7e5;strokeWidth=1.5;fontColor=#18243b;fontSize=22;whiteSpace=wrap;spacing=12;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="500" y="350" width="190" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#087e68;fontColor=#53647d;fontSize=15;labelBackgroundColor=#f5f7fb;dashed=0;" edge="1" parent="1" source="9" target="12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="&lt;b&gt;Evidence&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:16px&quot; color=&quot;#53647d&quot;&gt;Source URL · licence&lt;br&gt;retrieval time&lt;/font&gt;" style="rounded=1;arcSize=14;fillColor=#ffffff;strokeColor=#cdd7e5;strokeWidth=1.5;fontColor=#18243b;fontSize=22;whiteSpace=wrap;spacing=12;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="265" y="350" width="190" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="&lt;b&gt;Cited answer&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:16px&quot; color=&quot;#53647d&quot;&gt;Trace back to&lt;br&gt;the original source&lt;/font&gt;" style="rounded=1;arcSize=14;fillColor=#ffffff;strokeColor=#cdd7e5;strokeWidth=1.5;fontColor=#18243b;fontSize=22;whiteSpace=wrap;spacing=12;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="350" width="190" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#087e68;fontColor=#53647d;fontSize=15;labelBackgroundColor=#f5f7fb;dashed=0;" edge="1" parent="1" source="12" target="14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#087e68;fontColor=#53647d;fontSize=15;labelBackgroundColor=#f5f7fb;dashed=0;" edge="1" parent="1" source="14" target="15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Cache, retry and circuit-breaker controls protect upstream calls." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=15;fontColor=#18243b;fontStyle=0;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="492" width="660" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="" style="rounded=1;arcSize=12;fillColor=#e9eef6;strokeColor=none;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="530" width="660" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="PUBLIC DATA, READ-ONLY" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#087e68;fontStyle=1;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="46" y="536" width="628" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="irishopendata.ie · No writes to upstream services." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontColor=#53647d;fontStyle=0;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="46" y="562" width="628" height="24" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

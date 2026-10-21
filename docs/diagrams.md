@@ -33,10 +33,17 @@ Checked on 21 October 2026:
 - Republic of Ireland outline: [Natural Earth 1:50m country boundaries](https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_50m_admin_0_countries.geojson), [public domain](https://www.naturalearthdata.com/about/terms-of-use/). The main polygon is simplified geographic context; offshore islands are omitted. The shape is an editable Draw.io vector stencil.
 - Other illustrations and line icons are original native Draw.io geometry created for this profile. They are not copied publisher logos.
 
-The six repository pins and project scope are unchanged by this diagram revision.
+The detailed diagrams cover the three CV projects.
 
-## Compact profile covers
+## Screenshot-led project grid
 
-`assets/cards/` contains simplified SVG covers for the project grid. They use original vector artwork and the same Natural Earth Ireland outline credited above. The detailed Draw.io files remain unchanged. The other cards use existing public project screenshots; Narrated Deck Studio uses its explicitly labelled bundled sample slide, not a claimed production deliverable.
+The grid uses consistent 16:9 frames. Screenshots are embedded intact in SVG files and cropped only by the display frame. Detailed Draw.io diagrams remain linked separately.
 
-The three screenshot covers embed copies of those public images in 16:9 SVG frames. Cropping changes the frame only; the underlying screenshots are retained inside each SVG.
+- AgentOps: [run-detail screen](https://github.com/c-mongan/copilot-cli-agentops-azure/blob/main/docs/images/ui-run-detail-dark.png), showing a demo run with a denied call. Demo timings and costs are not production performance claims.
+- Ireland MCP: [recorded answer poster](https://github.com/c-mongan/ireland-mcp/blob/main/web/media/chatgpt-demo-poster.jpg). The image contains its historical period, retrieval date, CSO source and CC BY 4.0 attribution.
+- Support Triage: a reformatted excerpt from the [recorded Copilot report for synthetic case SUP-1002](https://github.com/c-mongan/support-triage-agent-template/blob/main/docs/demo/copilot/reports/20261007-233738-SUP-1002-triage.md). Confidence and evidence text are quoted from that report. This is a report excerpt, not a product UI screenshot.
+- Sligo: [overview screenshot](https://github.com/c-mongan/sligo-geology-viewer/blob/main/docs/assets/overview.png). Contains public Irish geoscience data; see the project's [data attribution](https://github.com/c-mongan/sligo-geology-viewer#data-and-attribution). Geological surfaces and risk context are interpretations, not certified engineering assessments.
+- Effects Atlas: [gallery screenshot](https://github.com/c-mongan/effects-atlas/blob/main/docs/screenshots/gallery.jpg).
+- LiveKit Voice Studio: [local studio screenshot](https://github.com/c-mongan/livekit-voice-studio/blob/main/docs/studio-local.jpg).
+
+Narrated Deck Studio remains linked under More projects. Earlier covers are retained for recoverability but are not displayed in the grid.

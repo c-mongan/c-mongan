@@ -46,4 +46,4 @@ The grid uses consistent 16:9 frames. Screenshots are embedded intact in SVG fil
 - Effects Atlas: [gallery screenshot](https://github.com/c-mongan/effects-atlas/blob/main/docs/screenshots/gallery.jpg).
 - LiveKit Voice Studio: [local studio screenshot](https://github.com/c-mongan/livekit-voice-studio/blob/main/docs/studio-local.jpg).
 
-Narrated Deck Studio remains linked under More projects. Earlier covers are retained for recoverability but are not displayed in the grid.
+Narrated Deck Studio remains linked under More projects. Earlier cover versions remain recoverable in Git history.

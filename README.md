@@ -11,14 +11,14 @@ Select a visual for a closer look. Demo and Code links open the projects; Archit
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/cards/agentops.svg"><img src="assets/cards/agentops.svg" alt="AgentOps app: trace waterfall and denied tool call in a demo run" width="100%"></a>
+      <a href="assets/cards/agentops-screen.svg"><img src="assets/cards/agentops-screen.svg" alt="AgentOps app: trace waterfall and denied tool call in a demo run" width="100%"></a>
       <h3>Copilot CLI AgentOps</h3>
       <p>Inspect failed or slow calls in local AI-agent traces.</p>
       <p><a href="https://github.com/c-mongan/copilot-cli-agentops-azure#readme">Demo</a> · <a href="https://github.com/c-mongan/copilot-cli-agentops-azure">Code</a> · <a href="assets/diagrams/agentops-light.png">Architecture</a></p>
       <sub>Demo data · Azure optional</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="assets/cards/ireland-mcp.svg"><img src="assets/cards/ireland-mcp.svg" alt="Recorded Ireland MCP answer showing a historical CSO rent statistic and citations" width="100%"></a>
+      <a href="assets/cards/ireland-answer.svg"><img src="assets/cards/ireland-answer.svg" alt="Recorded Ireland MCP answer showing a historical CSO rent statistic and citations" width="100%"></a>
       <h3>Ireland MCP</h3>
       <p>Ask questions about Irish public data and follow the citations.</p>
       <p><a href="https://irishopendata.ie">Demo</a> · <a href="https://github.com/c-mongan/ireland-mcp">Code</a> · <a href="assets/diagrams/ireland-mcp-light.png">Architecture</a></p>
@@ -27,14 +27,14 @@ Select a visual for a closer look. Demo and Code links open the projects; Archit
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/cards/support-triage.svg"><img src="assets/cards/support-triage.svg" alt="Recorded synthetic triage report excerpt showing confidence and code evidence" width="100%"></a>
+      <a href="assets/cards/triage-report.svg"><img src="assets/cards/triage-report.svg" alt="Recorded synthetic triage report excerpt showing confidence and code evidence" width="100%"></a>
       <h3>Support Triage Agent</h3>
       <p>Investigate a support case and draft an evidence-graded reply.</p>
       <p><a href="https://github.com/c-mongan/support-triage-agent-template/tree/main/docs/demo">Demo</a> · <a href="https://github.com/c-mongan/support-triage-agent-template">Code</a> · <a href="assets/diagrams/support-triage-light.png">Architecture</a></p>
       <sub>Synthetic report excerpt · human review</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="assets/cards/sligo.svg"><img src="assets/cards/sligo.svg" alt="Sligo Basin 3D viewer with terrain, geological layers and source controls" width="100%"></a>
+      <a href="assets/cards/sligo-viewer.svg"><img src="assets/cards/sligo-viewer.svg" alt="Sligo Basin 3D viewer with terrain, geological layers and source controls" width="100%"></a>
       <h3>Sligo Basin 3D Viewer</h3>
       <p>Explore an interpreted geological model built from public Irish geoscience data.</p>
       <p><a href="https://sligo-digital-twin.vercel.app/">Demo</a> · <a href="https://github.com/c-mongan/sligo-geology-viewer">Code</a> · <a href="https://github.com/c-mongan/sligo-geology-viewer#data-and-attribution">Data sources</a></p>

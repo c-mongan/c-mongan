@@ -34,7 +34,7 @@ Open a project to try it or inspect the code. Architecture links open the detail
       <sub>Synthetic demos · human review</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/c-mongan/effects-atlas"><img src="https://raw.githubusercontent.com/c-mongan/effects-atlas/main/docs/screenshots/gallery.jpg" alt="Effects Atlas: Interactive gallery" width="100%"></a>
+      <a href="https://github.com/c-mongan/effects-atlas"><img src="assets/cards/effects-atlas.svg" alt="Effects Atlas: Interactive gallery" width="100%"></a>
       <h3>Effects Atlas</h3>
       <p>Explore 40 React effects and recipes, then download a working starter.</p>
       <p><a href="https://c-mongan.github.io/effects-atlas/">Demo</a> · <a href="https://github.com/c-mongan/effects-atlas">Code</a> · <a href="https://c-mongan.github.io/effects-atlas/storybook/">Storybook</a></p>
@@ -43,14 +43,14 @@ Open a project to try it or inspect the code. Architecture links open the detail
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/c-mongan/livekit-voice-studio"><img src="https://raw.githubusercontent.com/c-mongan/livekit-voice-studio/main/docs/studio-local.jpg" alt="LiveKit Voice Studio: Development preview · Apple Silicon" width="100%"></a>
+      <a href="https://github.com/c-mongan/livekit-voice-studio"><img src="assets/cards/voice-studio.svg" alt="LiveKit Voice Studio: Development preview · Apple Silicon" width="100%"></a>
       <h3>LiveKit Voice Studio</h3>
       <p>Talk to AI with local speech and a choice of reasoning providers.</p>
       <p><a href="https://github.com/c-mongan/livekit-voice-studio/blob/main/docs/demo.md">Demo</a> · <a href="https://github.com/c-mongan/livekit-voice-studio">Code</a> · <a href="https://github.com/c-mongan/livekit-voice-studio/blob/main/docs/local-cloud-components.md">Architecture</a></p>
       <sub>Development preview · Apple Silicon</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/c-mongan/narrated-deck-studio"><img src="https://raw.githubusercontent.com/c-mongan/narrated-deck-studio/main/packages/world-class-decks/examples/demo/renders/slide-1.png" alt="Narrated Deck Studio: Bundled sample slide · in development" width="100%"></a>
+      <a href="https://github.com/c-mongan/narrated-deck-studio"><img src="assets/cards/narrated-deck.svg" alt="Narrated Deck Studio: Bundled sample slide · in development" width="100%"></a>
       <h3>Narrated Deck Studio</h3>
       <p>Turn source material into reviewed presentations, narration and captions.</p>
       <p><a href="https://github.com/c-mongan/narrated-deck-studio/tree/main/packages/world-class-decks/examples/demo">Sample</a> · <a href="https://github.com/c-mongan/narrated-deck-studio">Code</a> · <a href="https://github.com/c-mongan/narrated-deck-studio/blob/main/docs/ARCHITECTURE.md">Architecture</a></p>

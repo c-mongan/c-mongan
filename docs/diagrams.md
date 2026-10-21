@@ -38,3 +38,5 @@ The six repository pins and project scope are unchanged by this diagram revision
 ## Compact profile covers
 
 `assets/cards/` contains simplified SVG covers for the project grid. They use original vector artwork and the same Natural Earth Ireland outline credited above. The detailed Draw.io files remain unchanged. The other cards use existing public project screenshots; Narrated Deck Studio uses its explicitly labelled bundled sample slide, not a claimed production deliverable.
+
+The three screenshot covers embed copies of those public images in 16:9 SVG frames. Cropping changes the frame only; the underlying screenshots are retained inside each SVG.

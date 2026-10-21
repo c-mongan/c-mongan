@@ -34,3 +34,7 @@ Checked on 21 October 2026:
 - Other illustrations and line icons are original native Draw.io geometry created for this profile. They are not copied publisher logos.
 
 The six repository pins and project scope are unchanged by this diagram revision.
+
+## Compact profile covers
+
+`assets/cards/` contains simplified SVG covers for the project grid. They use original vector artwork and the same Natural Earth Ireland outline credited above. The detailed Draw.io files remain unchanged. The other cards use existing public project screenshots; Narrated Deck Studio uses its explicitly labelled bundled sample slide, not a claimed production deliverable.

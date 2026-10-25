@@ -2,7 +2,7 @@
 
 These editable A5 landscape diagrams explain the products through a trace waterfall, a geographic data view with a source receipt, and a support-case dossier. They are visual explanations, not exhaustive component maps or screenshots of the applications.
 
-Open `assets/diagrams/*.drawio` in Draw.io Desktop or diagrams.net. The PNG exports also contain editable diagram XML. The profile selects a light or dark export and links to the full-size image.
+Open `assets/diagrams/*.drawio` in Draw.io Desktop or diagrams.net. The PNG exports also contain editable diagram XML. Light and dark PNG exports are provided; the profile links to the light export.
 
 ## Export
 
@@ -23,7 +23,7 @@ Checked on 21 October 2026:
 
 - **AgentOps:** [current README](https://github.com/c-mongan/copilot-cli-agentops-azure) and [architecture](https://github.com/c-mongan/copilot-cli-agentops-azure/blob/main/docs/architecture.md). The waterfall is an illustration. Its timing is not production evidence. Native OpenTelemetry feeds local diagnosis; strict defaults exclude prompts, code, arguments and results. Azure upload is optional and off by default. A denial is distinct from a tool error.
 - **Ireland MCP:** [README](https://github.com/c-mongan/ireland-mcp) and [recorded demonstration](https://github.com/c-mongan/ireland-mcp/blob/main/docs/demo-video.md). The receipt shows the recorded €1,672.57 monthly rent statistic for Galway City, two-bedroom apartments, Q4 2025. It came from [CSO RIQ02](https://data.cso.ie/table/RIQ02), under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), retrieved on 10 October 2026 from cache. This is a historical registered-tenancy statistic, not current asking rent. The figure is reformatted for explanation. Attribution: Central Statistics Office, Ireland; underlying table: RTB Average Monthly Rent Report. Map icons represent subject groups, not locations, exact coverage or live measurements.
-- **Support Triage:** [workflow and synthetic cases](https://github.com/c-mongan/support-triage-agent-template) and [architecture](https://github.com/c-mongan/support-triage-agent-template/blob/main/docs/architecture.md). The dossier is an illustrative summary of synthetic webhook case 002: body parsing breaks HMAC verification; secret rotation is the misleading clue. Evidence rows show the investigation method, not a copied production report. Confidence is categorical, not a numerical probability. A human reviews the report and draft reply.
+- **Support Triage:** [workflow and synthetic cases](https://github.com/c-mongan/support-triage-agent-template) and [architecture](https://github.com/c-mongan/support-triage-agent-template/blob/main/docs/architecture.md). The dossier is an illustrative summary of synthetic webhook case SUP-1002: body parsing breaks HMAC verification; secret rotation is the misleading clue. Evidence rows show the investigation method, not a copied production report. Confidence is categorical, not a numerical probability. A human reviews the report and draft reply.
 
 ## Visual sources and asset credits
 
@@ -33,7 +33,7 @@ Checked on 21 October 2026:
 - Republic of Ireland outline: [Natural Earth 1:50m country boundaries](https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_50m_admin_0_countries.geojson), [public domain](https://www.naturalearthdata.com/about/terms-of-use/). The main polygon is simplified geographic context; offshore islands are omitted. The shape is an editable Draw.io vector stencil.
 - Other illustrations and line icons are original native Draw.io geometry created for this profile. They are not copied publisher logos.
 
-The detailed diagrams cover the three CV projects.
+The detailed diagrams cover three of the six projects shown (AgentOps, Ireland MCP and Support Triage).
 
 ## Screenshot-led project grid
 

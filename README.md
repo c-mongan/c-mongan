@@ -6,19 +6,19 @@ Member of Technical Staff at **Microsoft** · previously Technical Support Engin
 
 ## Selected projects
 
-Select a visual for a closer look. Demo and Code links open the projects; Architecture links explain how they work.
+Select a visual to open the project. Architecture links explain how each one works.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/cards/agentops-screen.svg"><img src="assets/cards/agentops-screen.svg" alt="AgentOps app: trace waterfall and denied tool call in a demo run" width="100%"></a>
+      <a href="https://github.com/c-mongan/copilot-cli-agentops-azure#readme"><img src="assets/cards/agentops-screen.svg" alt="AgentOps app: trace waterfall and denied tool call in a demo run" width="100%"></a>
       <h3>Copilot CLI AgentOps</h3>
       <p>Inspect failed or slow calls in local AI-agent traces.</p>
       <p><a href="https://github.com/c-mongan/copilot-cli-agentops-azure#readme">Demo</a> · <a href="https://github.com/c-mongan/copilot-cli-agentops-azure">Code</a> · <a href="assets/diagrams/agentops-light.png">Architecture</a></p>
       <sub>Demo data · Azure optional</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="assets/cards/ireland-answer.svg"><img src="assets/cards/ireland-answer.svg" alt="Recorded Ireland MCP answer showing a historical CSO rent statistic and citations" width="100%"></a>
+      <a href="https://irishopendata.ie"><img src="assets/cards/ireland-answer.svg" alt="Recorded Ireland MCP answer showing a historical CSO rent statistic and citations" width="100%"></a>
       <h3>Ireland MCP</h3>
       <p>Ask questions about Irish public data and follow the citations.</p>
       <p><a href="https://irishopendata.ie">Demo</a> · <a href="https://github.com/c-mongan/ireland-mcp">Code</a> · <a href="assets/diagrams/ireland-mcp-light.png">Architecture</a></p>
@@ -27,14 +27,14 @@ Select a visual for a closer look. Demo and Code links open the projects; Archit
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/cards/triage-report.svg"><img src="assets/cards/triage-report.svg" alt="Recorded synthetic triage report excerpt showing confidence and code evidence" width="100%"></a>
+      <a href="https://github.com/c-mongan/support-triage-agent-template/tree/main/docs/demo"><img src="assets/cards/triage-report.svg" alt="Recorded synthetic triage report excerpt showing confidence and code evidence" width="100%"></a>
       <h3>Support Triage Agent</h3>
       <p>Investigate a support case and draft an evidence-graded reply.</p>
       <p><a href="https://github.com/c-mongan/support-triage-agent-template/tree/main/docs/demo">Demo</a> · <a href="https://github.com/c-mongan/support-triage-agent-template">Code</a> · <a href="assets/diagrams/support-triage-light.png">Architecture</a></p>
       <sub>Synthetic report excerpt · human review</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="assets/cards/sligo-viewer.svg"><img src="assets/cards/sligo-viewer.svg" alt="Sligo Basin 3D viewer with terrain, geological layers and source controls" width="100%"></a>
+      <a href="https://sligo-digital-twin.vercel.app/"><img src="assets/cards/sligo-viewer.svg" alt="Sligo Basin 3D viewer with terrain, geological layers and source controls" width="100%"></a>
       <h3>Sligo Basin 3D Viewer</h3>
       <p>Explore an interpreted geological model built from public Irish geoscience data.</p>
       <p><a href="https://sligo-digital-twin.vercel.app/">Demo</a> · <a href="https://github.com/c-mongan/sligo-geology-viewer">Code</a> · <a href="https://github.com/c-mongan/sligo-geology-viewer#data-and-attribution">Data sources</a></p>
@@ -43,17 +43,17 @@ Select a visual for a closer look. Demo and Code links open the projects; Archit
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/cards/effects-atlas.svg"><img src="assets/cards/effects-atlas.svg" alt="Effects Atlas: Interactive gallery" width="100%"></a>
+      <a href="https://c-mongan.github.io/effects-atlas/"><img src="assets/cards/effects-atlas.svg" alt="Effects Atlas gallery: hero gradient and a filterable grid of effect previews" width="100%"></a>
       <h3>Effects Atlas</h3>
       <p>Explore 40 React effects and recipes, then download a working starter.</p>
       <p><a href="https://c-mongan.github.io/effects-atlas/">Demo</a> · <a href="https://github.com/c-mongan/effects-atlas">Code</a> · <a href="https://c-mongan.github.io/effects-atlas/storybook/">Storybook</a></p>
       <sub>Interactive gallery</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="assets/cards/voice-studio.svg"><img src="assets/cards/voice-studio.svg" alt="LiveKit Voice Studio: Development preview · Apple Silicon" width="100%"></a>
+      <a href="https://github.com/c-mongan/livekit-voice-studio"><img src="assets/cards/voice-studio.svg" alt="Voice Studio app: conversation panel with local speech setup" width="100%"></a>
       <h3>LiveKit Voice Studio</h3>
       <p>Talk to AI with local speech and a choice of reasoning providers.</p>
-      <p><a href="https://github.com/c-mongan/livekit-voice-studio/blob/main/docs/demo.md">Demo</a> · <a href="https://github.com/c-mongan/livekit-voice-studio">Code</a> · <a href="https://github.com/c-mongan/livekit-voice-studio/blob/main/docs/local-cloud-components.md">Architecture</a></p>
+      <p><a href="https://github.com/c-mongan/livekit-voice-studio/blob/main/docs/demo.md">Walkthrough</a> · <a href="https://github.com/c-mongan/livekit-voice-studio">Code</a> · <a href="https://github.com/c-mongan/livekit-voice-studio/blob/main/docs/local-cloud-components.md">Architecture</a></p>
       <sub>Development preview · Apple Silicon</sub>
     </td>
   </tr>

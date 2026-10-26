@@ -37,7 +37,7 @@ Select a visual to open the project. Architecture links explain how each one wor
       <a href="https://sligo-digital-twin.vercel.app/"><img src="assets/cards/sligo-viewer.svg" alt="Sligo Basin 3D viewer with terrain, geological layers and source controls" width="100%"></a>
       <h3>Sligo Basin 3D Viewer</h3>
       <p>Explore an interpreted geological model built from public Irish geoscience data.</p>
-      <p><a href="https://sligo-digital-twin.vercel.app/">Demo</a> · <a href="https://github.com/c-mongan/sligo-geology-viewer">Code</a> · <a href="https://github.com/c-mongan/sligo-geology-viewer#data-and-attribution">Data sources</a></p>
+      <p><a href="https://sligo-digital-twin.vercel.app/">Demo</a> · <a href="https://github.com/c-mongan/sligo-geology-viewer">Code</a> · <a href="assets/diagrams/sligo-viewer-light.png">Architecture</a> · <a href="https://github.com/c-mongan/sligo-geology-viewer#data-and-attribution">Data sources</a></p>
       <sub>Interpreted model · not an engineering assessment</sub>
     </td>
   </tr>
@@ -53,7 +53,7 @@ Select a visual to open the project. Architecture links explain how each one wor
       <a href="https://github.com/c-mongan/livekit-voice-studio"><img src="assets/cards/voice-studio.svg" alt="Voice Studio app: conversation panel with local speech setup" width="100%"></a>
       <h3>LiveKit Voice Studio</h3>
       <p>Talk to AI with local speech and a choice of reasoning providers.</p>
-      <p><a href="https://github.com/c-mongan/livekit-voice-studio/blob/main/docs/demo.md">Walkthrough</a> · <a href="https://github.com/c-mongan/livekit-voice-studio">Code</a> · <a href="https://github.com/c-mongan/livekit-voice-studio/blob/main/docs/local-cloud-components.md">Architecture</a></p>
+      <p><a href="https://github.com/c-mongan/livekit-voice-studio/blob/main/docs/demo.md">Walkthrough</a> · <a href="https://github.com/c-mongan/livekit-voice-studio">Code</a> · <a href="assets/diagrams/voice-studio-light.png">Architecture</a></p>
       <sub>Development preview · Apple Silicon</sub>
     </td>
   </tr>

@@ -20,7 +20,7 @@ Select a visual to open the project. Architecture links explain how each one wor
     <td width="50%" valign="top">
       <a href="https://irishopendata.ie"><img src="assets/cards/ireland-answer.svg" alt="Recorded Ireland MCP answer showing a historical CSO rent statistic and citations" width="100%"></a>
       <h3>Ireland MCP</h3>
-      <p>Ask questions about Irish public data and follow the citations.</p>
+      <p>Get cited answers from Irish public data.</p>
       <p><a href="https://irishopendata.ie">Demo</a> · <a href="https://github.com/c-mongan/ireland-mcp">Code</a> · <a href="assets/diagrams/ireland-mcp-light.png">Architecture</a></p>
       <sub>Recorded answer · historical data</sub>
     </td>

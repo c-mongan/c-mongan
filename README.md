@@ -4,6 +4,27 @@ I investigate difficult systems problems, explain them clearly, and build tools 
 
 Member of Technical Staff at **Microsoft** · previously Technical Support Engineer II at **Datadog** · Dublin, Ireland
 
+## Open source contributions
+
+Merged into other people's projects.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/abracadabra50/open-supermarkets">open-supermarkets</a> <sub>★ 132</sub></h3>
+      <p>CLI, MCP server and skills for the world's supermarkets, built for AI agents.</p>
+      <p>✅ <a href="https://github.com/abracadabra50/open-supermarkets/pull/25"><b>Add Lidl Ireland catalogue search</b></a><br>Anonymous Irish catalogue search through the CLI, HTTP API and MCP.</p>
+      <sub>Merged Nov 2026 · TypeScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/eyuansu62/LogDx">LogDx-CI</a></h3>
+      <p>A reproducible benchmark that asks whether CI log reduction keeps enough evidence for LLM root-cause diagnosis.</p>
+      <p>✅ <a href="https://github.com/eyuansu62/LogDx/pull/1"><b>Copilot backends, long-context coverage and a Drain3 baseline</b></a><br>New model backends and a classic log-parsing baseline to compare against.</p>
+      <sub>Merged Oct 2026 · Python</sub>
+    </td>
+  </tr>
+</table>
+
 ## Selected projects
 
 Select a visual to open the project. Architecture links explain how each one works.
@@ -11,18 +32,18 @@ Select a visual to open the project. Architecture links explain how each one wor
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/c-mongan/copilot-cli-agentops-azure#readme"><img src="assets/cards/agentops-screen.svg" alt="AgentOps app: trace waterfall and denied tool call in a demo run" width="100%"></a>
-      <h3>Copilot CLI AgentOps</h3>
-      <p>Inspect failed or slow calls in local AI-agent traces.</p>
-      <p><a href="https://github.com/c-mongan/copilot-cli-agentops-azure#readme">Demo</a> · <a href="https://github.com/c-mongan/copilot-cli-agentops-azure">Code</a> · <a href="assets/diagrams/agentops-light.png">Architecture</a></p>
-      <sub>Demo data · Azure optional</sub>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://irishopendata.ie"><img src="assets/cards/ireland-answer.svg" alt="Recorded Ireland MCP answer showing a historical CSO rent statistic and citations" width="100%"></a>
       <h3>Ireland MCP</h3>
       <p>Get cited answers from Irish public data.</p>
       <p><a href="https://irishopendata.ie">Demo</a> · <a href="https://github.com/c-mongan/ireland-mcp">Code</a> · <a href="assets/diagrams/ireland-mcp-light.png">Architecture</a></p>
       <sub>Recorded answer · historical data</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/c-mongan/copilot-cli-agentops-azure#readme"><img src="assets/cards/agentops-screen.svg" alt="AgentOps app: trace waterfall and denied tool call in a demo run" width="100%"></a>
+      <h3>Copilot CLI AgentOps</h3>
+      <p>Inspect failed or slow calls in local AI-agent traces.</p>
+      <p><a href="https://github.com/c-mongan/copilot-cli-agentops-azure#readme">Demo</a> · <a href="https://github.com/c-mongan/copilot-cli-agentops-azure">Code</a> · <a href="assets/diagrams/agentops-light.png">Architecture</a></p>
+      <sub>Demo data · Azure optional</sub>
     </td>
   </tr>
   <tr>

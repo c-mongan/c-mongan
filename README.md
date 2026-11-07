@@ -4,9 +4,9 @@ I investigate difficult systems problems, explain them clearly, and build tools 
 
 Member of Technical Staff at **Microsoft** · previously Technical Support Engineer II at **Datadog** · Dublin, Ireland
 
-## Merged upstream
+## Open source contributions
 
-Contributions accepted into other people's open-source projects.
+Merged into other people's projects.
 
 <table>
   <tr>
@@ -24,8 +24,6 @@ Contributions accepted into other people's open-source projects.
     </td>
   </tr>
 </table>
-
-**In review:** [DataDog/dd-apm-test-agent #363](https://github.com/DataDog/dd-apm-test-agent/pull/363) (GitHub Copilot CLI support via OpenTelemetry) · [Graphify #3167](https://github.com/Graphify-Labs/graphify/pull/3167) (GitHub Copilot SDK backend)
 
 ## Selected projects
 
